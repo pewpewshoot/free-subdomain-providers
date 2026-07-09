@@ -1,5 +1,5 @@
 # Subdomain providers
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) [Features](#features) | [Subdomain Providers](#subdomain-providers-1) | [Unapproved Subdomain Providers](pending-approval.md) | [Contribute to the approval process](contribute.md) 
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) [Features](#features) | [Providers](#subdomain-providers-1) | [Unapproved Providers](pending-approval.md) | [Contribute to the approval process](contribute.md) 
 
 > [!TIP]
 > **This is only the free subdomain providers branch**
@@ -7,7 +7,7 @@
 
 ### Features
 
-- fsp: Free Subdomain Provider — recommended for advanced users allows full control over your subdomain
+- fsp: Free Subdomain Provider — recommended for advanced users allows full control over thier subdomain
 
 For more info about the other options check out the [original repo](https://github.com/korlabsio/subdomain_providers "og repo")
 
