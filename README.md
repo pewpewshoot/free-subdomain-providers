@@ -48,16 +48,7 @@ For more info about the other options check out the [original repo](https://gith
    | [wip.la & cluster.ws](https://github.com/Olivr/free-domain) |  [not working anymore, might get resolved](https://github.com/Olivr/free-domain#free-domains-for-developers) | fsp | ❌  |
    | [jsid.dev](https://github.com/namtxs/jsid.dev) |  free identity for developers on the web | fsp | ✅  |
    | [opendomains.andrewstech.me](https://opendomains.andrewstech.me) |  free subdomains powered by Cloudflare, localplayer.dev, is-not-a.dev, is-local.org, is-cool.dev, is-a-fullstack.dev subdomains   | fsp | ✅  |
-   | [sample text](https://example.com) |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | fsp | ✅  |
-   | [sample text](https://example.com) |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | fsp | ✅  |
-   | [sample text](https://example.com) |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | fsp | ✅  |
-   | [sample text](https://example.com) |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | fsp | ✅  |
-   | [sample text](https://example.com) |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | fsp | ✅  |
-   | [sample text](https://example.com) |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | fsp | ✅  |
-   | [sample text](https://example.com) |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | fsp | ✅  |
-                     
-
-                  
+ 
 
   
  <!-- END LIST -->
