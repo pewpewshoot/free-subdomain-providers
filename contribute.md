@@ -10,8 +10,8 @@
 
 Are these services even free?
 
--hubside.fr, fsp works in eu and na probably
--weebly.com, fsp works in eu and na probably
--hop.ru, fsp russia and belarus probably
--xsph.ru, fsp russia and belarus probably
+- hubside.fr, fsp works in eu and na probably
+- weebly.com, fsp works in eu and na probably
+- hop.ru, fsp russia and belarus probably
+- xsph.ru, fsp russia and belarus probably
 
