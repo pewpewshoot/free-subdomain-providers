@@ -17,8 +17,8 @@ For more info about the other options check out the [original repo](https://gith
 >
 
 > [!TIP]
->**Domains which have not been yet approved are located [here](pending-approval.md).** 
->**Want to contribute with approving a domain that I can't access due to regionblocking and VPN blocking? Check out [this list](contribute.md)!**
+>**Domains which have not been yet approved are located [here](https://github.com/pewpewshoot/free-subdomain-providers/wiki/Pending-Approval).** 
+>**Want to contribute with approving a domain that I can't access due to regionblocking and VPN blocking? Check out [this list](https://github.com/pewpewshoot/free-subdomain-providers/wiki/Contribute)!**
 >
 
 
