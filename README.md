@@ -1,5 +1,5 @@
 # Subdomain providers
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) [Features](#features) | [Providers](#subdomain-providers-1) | [Unapproved Providers](pending-approval.md) | [Contribute to the approval process](contribute.md) 
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) [Features](#features) | [Providers](https://github.com/pewpewshoot/free-subdomain-providers/wiki) | [Unapproved Providers](https://github.com/pewpewshoot/free-subdomain-providers/wiki/Pending-Approval) | [Contribute to the approval process](https://github.com/pewpewshoot/free-subdomain-providers/wiki/Contribute) 
 
 > [!TIP]
 > **This is only the free subdomain providers branch**
