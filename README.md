@@ -7,7 +7,7 @@
 
 ### Features
 
-- fsp: Free Subdomain Provider — recommended for advanced users allows full control over thier subdomain
+- fsp: Free Subdomain Provider — recommended for advanced users allows full control over their subdomain
 
 For more info about the other options check out the [original repo](https://github.com/korlabsio/subdomain_providers "og repo")
 
