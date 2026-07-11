@@ -51,7 +51,7 @@ For more info about the other options check out the [original repo](https://gith
    | [is-really.cool](https://github.com/is-amazing/register) |  a place for software devs to host their projects and personal websites for free | fsp | ✅  |
    | [wip.la & cluster.ws](https://github.com/Olivr/free-domain) |  [not working anymore, might get resolved](https://github.com/Olivr/free-domain#free-domains-for-developers) | fsp | ❌  |
    | [jsid.dev](https://github.com/namtxs/jsid.dev) |  free identity for developers on the web | fsp | ✅  |
-   | [opendomains.andrewstech.me](https://opendomains.andrewstech.me) |  free subdomains powered by Cloudflare, localplayer.dev, is-not-a.dev, is-local.org, is-cool.dev, is-a-fullstack.dev subdomains   | fsp | 
+   | [opendomains.andrewstech.me](https://opendomains.andrewstech.me) |  free subdomains powered by Cloudflare, localplayer.dev, is-not-a.dev, is-local.org, is-cool.dev, is-a-fullstack.dev subdomains | fsp | 
    ✅  |
    | [dynu.com](https://www.dynu.com/ControlPanel/AddDDNS) |  host servers with the following subdomains camdvr.org, casacam.net, ddnsfree.com, ezgateway.net, freeddns.org, gleeze.com, kozow.com, loseyourip.com, mytunnel.org, mywire.org, webredirect.org, xubi.org | fsp | ✅  |
  
