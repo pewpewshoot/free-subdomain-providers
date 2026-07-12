@@ -46,9 +46,9 @@ For more info about the other options check out the [original repo](https://gith
    | [js.org](https://js.org/) |  js.org subdomain, your project must be js related | fsp | ✅  |
    | [thedev.id](https://upset.dev/thedev.id/) |  Allows a free yourname.thedev.id subdomain for your personal site or project | fsp | ✅  |
    | [is-a.dev](https://is-a.dev) |  allows developers to get a .is-a.dev subdomain for their personal websites | fsp | ✅  |
-   | [ngo.us](https://nic.ngo.us) |  adedicated to legitimate nonprofit organizations and public online presences | fsp | ✅  |
    | [is-a-good.dev](https://is-a-good.dev/) |  free subdomains for developers  | fsp | ✅  |
    | [js.cool](https://js.cool/en/) |  free subdomains for open source projects | fsp | ✅  |
+   | [ngo.us](https://nic.ngo.us) |  adedicated to legitimate nonprofit organizations and public online presences | fsp | ✅  |
    | [is-really.cool](https://github.com/is-amazing/register) |  a place for software devs to host their projects and personal websites for free | fsp | ✅  |
    | [wip.la & cluster.ws](https://github.com/Olivr/free-domain) |  [not working anymore, might get resolved](https://github.com/Olivr/free-domain#free-domains-for-developers) | fsp | ❌  |
    | [jsid.dev](https://github.com/namtxs/jsid.dev) |  free identity for developers on the web | fsp | ✅  |
