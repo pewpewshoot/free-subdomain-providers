@@ -30,11 +30,16 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: Region
+      description: Where do you live? This is necessary in order to understand wheter this provider applies region blocking.
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - Europe
+        - North America 
+        - Australia   
+        - Russia  
+        - Japan
+        - Korea
+        - China
       default: 0
     validations:
       required: true
