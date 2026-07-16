@@ -21,10 +21,10 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: What subdomains does it provide?
+      description: Also tell us any addition info.
+      placeholder: Describe the provider.
+      value: "allows an example.com subdomain, I also like pizza and pineapple btw"
     validations:
       required: true
   - type: dropdown
