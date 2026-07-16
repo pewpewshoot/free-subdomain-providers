@@ -57,6 +57,15 @@ body:
       options:
         - label: I have personally tested the provider
           required: false
+
+  - type: checkboxes
+    id: phone
+    attributes:
+      label: Does it require your phone number
+      options:
+        - label: It requires your phone number
+          required: false
+          
 #  - type: upload
 #    id: screenshots
 #    attributes:
