@@ -58,30 +58,6 @@ body:
         - label: I have personally tested the provider
           required: false
 
-  - type: checkboxes
-    id: phone
-    attributes:
-      label: Does it require your phone number
-      options:
-        - label: It does require your phone number
-          required: false
-
-  - type: checkboxes
-    id: govid
-    attributes:
-      label: Does it require your government id
-      options:
-        - label: It does require your passport/drivers license
-          required: false
-
-  - type: checkboxes
-    id: address
-    attributes:
-      label: Does it require your government address
-      options:
-        - label: It does require your address
-          required: false
-          
 #  - type: upload
 #    id: screenshots
 #    attributes:
