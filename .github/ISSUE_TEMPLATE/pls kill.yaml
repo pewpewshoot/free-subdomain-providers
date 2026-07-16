@@ -1,6 +1,6 @@
 name: Remove a Provider
 description: Remove a subdomain provider.
-title: "[Request]: "
+title: "[Remove]: "
 labels: ["request"]
 projects: ["pewpewshoot/free-subdomain-providers"]
 assignees:
