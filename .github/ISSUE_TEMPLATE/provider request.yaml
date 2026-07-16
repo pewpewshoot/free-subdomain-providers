@@ -57,10 +57,10 @@ body:
       options:
         - label: I have personally tested the provider
           required: false
-  - type: upload
-    id: screenshots
-    attributes:
-      label: Upload screenshots
-      description: If applicable, add screenshots to help explain your problem.
-    validations:
-      required: false
+#  - type: upload
+#    id: screenshots
+#    attributes:
+#      label: Upload screenshots
+#      description: If applicable, add screenshots to help explain your problem.
+#    validations:
+#      required: false
