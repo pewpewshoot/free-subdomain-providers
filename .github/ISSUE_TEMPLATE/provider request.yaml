@@ -63,7 +63,23 @@ body:
     attributes:
       label: Does it require your phone number
       options:
-        - label: It requires your phone number
+        - label: It does require your phone number
+          required: false
+
+  - type: checkboxes
+    id: govid
+    attributes:
+      label: Does it require your government id
+      options:
+        - label: It does require your passport/drivers license
+          required: false
+
+  - type: checkboxes
+    id: address
+    attributes:
+      label: Does it require your government address
+      options:
+        - label: It does require your address
           required: false
           
 #  - type: upload
