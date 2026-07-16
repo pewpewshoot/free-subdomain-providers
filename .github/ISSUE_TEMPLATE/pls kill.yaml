@@ -1,0 +1,91 @@
+name: Remove a Provider
+description: Remove a subdomain provider.
+title: "[Request]: "
+labels: ["request"]
+projects: ["pewpewshoot/free-subdomain-providers"]
+assignees:
+  - pewpewshoot
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the repository!
+  - type: input
+    id: hostname
+    attributes:
+      label: Host provider
+      description: The url to the provider is...? 
+      placeholder: ex. example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What subdomains does it provide?
+      description: Also tell us any addition info.
+      placeholder: Describe the provider.
+      value: "allows an example.com subdomain, I also like pizza and pineapple btw"
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Region
+      description: Where do you live? This is necessary in order to understand wheter this provider applies region blocking.
+      options:
+        - Europe
+        - North America 
+        - Australia   
+        - Russia  
+        - Japan
+        - Korea
+        - China
+      default: 0
+    validations:
+      required: true
+#  - type: textarea
+#    id: logs
+#    attributes:
+#      label: Relevant log output
+#      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+#      render: shell
+  - type: checkboxes
+    id: test
+    attributes:
+      label: Experience with the provider
+      description: Have you personally tested the provider?
+      options:
+        - label: I have personally tested the provider
+          required: false
+
+  - type: checkboxes
+    id: phone
+    attributes:
+      label: Does it require your phone number
+      options:
+        - label: It does require your phone number
+          required: false
+
+  - type: checkboxes
+    id: govid
+    attributes:
+      label: Does it require your government id
+      options:
+        - label: It does require your passport/drivers license
+          required: false
+
+  - type: checkboxes
+    id: address
+    attributes:
+      label: Does it require your government address
+      options:
+        - label: It does require your address
+          required: false
+          
+#  - type: upload
+#    id: screenshots
+#    attributes:
+#      label: Upload screenshots
+#      description: If applicable, add screenshots to help explain your problem.
+#    validations:
+#      required: false
