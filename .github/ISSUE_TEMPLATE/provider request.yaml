@@ -14,7 +14,7 @@ body:
     id: hostname
     attributes:
       label: Host provider
-      description: What is the host that provides a free domain/subdomain?
+      description: The url to the provider is...? 
       placeholder: ex. example.com
     validations:
       required: false
