@@ -21,10 +21,10 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: What subdomains does it provide?
-      description: Also tell us any addition info.
-      placeholder: Describe the provider.
-      value: "allows an example.com subdomain, I also like pizza and pineapple btw"
+      label: What happened?
+      description: Please tell us any addition info. Did it become paid? Did it cease operations?
+      placeholder: Describe the providerssuei.
+      value: "example.com no longer provides the example.com subdomain / shut down permanently / is paid now"
     validations:
       required: true
   - type: dropdown
