@@ -2,7 +2,7 @@ name: Request a Provider
 description: Request a subdomain provider.
 title: "[Bug]: "
 labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
+projects: ["pewpewshoot/free-subdomain-providers"]
 assignees:
   - pewpewshoot
 body:
