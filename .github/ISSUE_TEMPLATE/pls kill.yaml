@@ -24,7 +24,7 @@ body:
       label: What happened?
       description: Please tell us any addition info. Did it become paid? Did it cease operations?
       placeholder: Describe the providerssuei.
-      value: "example.com no longer provides the example.com subdomain / shut down permanently / is paid now"
+      value: "example.com no longer provides the example.com subdomain | shut down permanently | is paid now"
     validations:
       required: true
   - type: dropdown
