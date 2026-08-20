@@ -35,6 +35,7 @@ For more info about the other options check out the [original repo](https://gith
    | [wordpress.com](https://wordpress.com) |  Start free with a wordpress.com subdomain, .blog and .com domains are available for free for the first year| fsp | ✅  |
    | [x10hosting.com](https://x10hosting.com) |  Works fine, unfortunately the only domains available are x10.mx x10.bz and elementfx.com| fsp | ✅  |
    | [github.io](https://docs.github.com/en/pages) |  Host your own website directly on github, following [this guide](https://docs.github.com/en/pages/quickstart) | fsp | ✅  |
+   | [codeberg.page](https://codeberg.page/) |  Host your own website directly on codeberg, an alternative to github | fsp | ✅  |
    | [ngrok.com](https://ngrok.com) |  The only free subdomain is ngrok-free.dev, very beautiful ik | fsp | ✅  |
    | [pages.dev](https://pages.dev) |  Free subdomain provided by Cloudflare themselves | fsp | ✅  |
    | [replit.com](https://replit.com) |  Replit provides a free subdomain in the format <your-live-app-subdomain-name>.replit.app | fsp | ✅  |
