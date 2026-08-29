@@ -55,6 +55,7 @@ For more info about the other options check out the [original repo](https://gith
    | [now.cc](https://now.cc) |  free now.cc subdomain | fsp | ✅  |
    | [zone.id](https://zone.id) |  free net.to and zone.id subdomains | fsp | ✅  |
    | [int.yt](https://int.yt) |  int.yt, nc.to, rh.to, yn.to, gw.to subdomains | fsp | ✅  |
+   | [my-place.us](https://my-place.us) |  my-place.us subdomain | fsp | ✅  |
    | [is-really.cool](https://github.com/is-amazing/register) |  a place for software devs to host their projects and personal websites for free | fsp | ✅  |
    | [wip.la & cluster.ws](https://github.com/Olivr/free-domain) |  [not working anymore, might get resolved](https://github.com/Olivr/free-domain#free-domains-for-developers) | fsp | ❌  |
    | [jsid.dev](https://github.com/namtxs/jsid.dev) |  free identity for developers on the web | fsp | ✅  |
