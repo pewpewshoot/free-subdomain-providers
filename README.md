@@ -44,6 +44,7 @@ For more info about the other options check out the [original repo](https://gith
    | [rweb.site](https://rweb.site/) |  Easy to [setup service through github](https://github.com/katorlys/rweb.site#how-to-get-one) with documentation, rweb.site subdomain | fsp | ✅  |
    | [foo.ng](https://foo.ng/) |  foo.ng subdomain, provides a subdomain for already hosted projects, [setup with github](https://github.com/Pokymon/foo.ng) | fsp | ✅  |
    | [js.org](https://js.org/) |  js.org subdomain, your project must be js related | fsp | ✅  |
+   | [dnshe.com](https://js.org/) |  de5.net, .cc.cd, us.ci and bot.cd subdomains| fsp | ✅  |
    | [thedev.id](https://upset.dev/thedev.id/) |  Allows a free yourname.thedev.id subdomain for your personal site or project | fsp | ✅  |
    | [is-a.dev](https://is-a.dev) |  allows developers to get a .is-a.dev subdomain for their personal websites | fsp | ✅  |
    | [is-a-good.dev](https://is-a-good.dev/) |  free subdomains for developers  | fsp | ✅  |
