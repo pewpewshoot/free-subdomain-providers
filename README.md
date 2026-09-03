@@ -52,6 +52,7 @@ For more info about the other options check out the [original repo](https://gith
    | [ngo.us](https://nic.ngo.us) |  dedicated to legitimate nonprofit organizations and public online presences | fsp | ✅  |
    | [azote.org](https://azote.org)|  free subdomains, asso.st, fr.nf , ze.cx, infos.st | fsp | ✅  |
    | [iz.rs](https://iz.rs/postupak_registracije) |  serbian subdomain provider | fsp | ✅  |
+   | [eu.cc](https://www.gname.com/tld-eu-cc.html) |  free eu.cc subdomain | fsp | ✅  |
    | [now.cc](https://now.cc) |  free now.cc subdomain | fsp | ✅  |
    | [zone.id](https://zone.id) |  free net.to and zone.id subdomains | fsp | ✅  |
    | [int.yt](https://int.yt) |  int.yt, nc.to, rh.to, yn.to, gw.to subdomains | fsp | ✅  |
