@@ -26,7 +26,6 @@ For more info about the other options check out the [original repo](https://gith
  | Provider | About | Type | Works? | 
  |--------|-------|------------|----------------|
  | [eu.org](https://nic.eu.org/) |  Pretty reliable and official looking, approval is rather slow and requires your address and government name. [Available domains](https://nic.eu.org/opendomains.html)  | fsp | ✅  |
-  | [freedns.afraid.org](freedns.afraid.org) |  Included despite being out of order for now, one of the best hosts out there  | fsp | ❌  |
   | [freewha.com](https://freewha.com) |  Public registration was temporarily disabled! If you need an account, please contact them using contact@freewha.com. Available domains are orgfree.com, 6te.net, ueuo.com, eu5.org, noads.biz, coolpage.biz, freeoda.com, freevar.com, freetzi.com and xp3.biz| fsp | ❓  |
   | [byet.host](https://byet.host) |  Many available subdomains — 10001mb.com, 22web.org, 2kool4u.net, 66ghz.com, a0001.net, fast-page.org, html-5.me, humorme.info, iblogger.org, is-best.net, is-great.net, is-great.org, joomla-host.org, likesyou.org, loveslife.biz, my-board.org, my-style.in, mydiscussion.net, nichesite.org, social-networking.me, synergize.co, talk4fun.net, totalh.net, web1337.net| fsp | ✅  |
    | [infinityfree.com](https://infinityfree.com) |  Many subdomains, including 42web.io, ct.ws, free.je, free.nf, freedev.app, freehosting.dev, freepage.cc, fwh.is, gamer.free, gamer.gd, great-site.net, gt.tc, howto.rocks, ifree.page, infinityfree.io, infinityfree.me, infinityfreeapp.com, infy.click, kesug.com, lovestoblog.com, nfy.fyi, page.gd, rf.gd, site.je, wuaze.com, xo.je, 10001mb.com, 22web.org, 2kool4u.net, 66ghz.com, fanclub.rocks, fast-page.org, html-5.me, iblogger.org, is-best.net, is-great.net, is-great.org, likesyou.org, loveslife.biz, my-board.org,mydiscussion.net, nichesite.org, social-networking.me, synergize.co, talk4fun.net, totalh.net, web1337.net| fsp | ✅  |
@@ -52,17 +51,18 @@ For more info about the other options check out the [original repo](https://gith
    | [ngo.us](https://nic.ngo.us) |  dedicated to legitimate nonprofit organizations and public online presences | fsp | ✅  |
    | [azote.org](https://azote.org)|  free subdomains, asso.st, fr.nf , ze.cx, infos.st | fsp | ✅  |
    | [iz.rs](https://iz.rs/postupak_registracije) |  serbian subdomain provider | fsp | ✅  |
-   | [.tk](https://dot.tk/) |  free .tk top level domain | fsp | ❓  |
    | [eu.cc](https://www.gname.com/tld-eu-cc.html) |  free eu.cc subdomain | fsp | ✅  |
    | [now.cc](https://now.cc) |  free now.cc subdomain | fsp | ✅  |
    | [zone.id](https://zone.id) |  free net.to and zone.id subdomains | fsp | ✅  |
    | [int.yt](https://int.yt) |  int.yt, nc.to, rh.to, yn.to, gw.to subdomains | fsp | ✅  |
    | [my-place.us](https://my-place.us) |  my-place.us subdomain | fsp | ✅  |
    | [is-really.cool](https://github.com/is-amazing/register) |  a place for software devs to host their projects and personal websites for free | fsp | ✅  |
-   | [wip.la & cluster.ws](https://github.com/Olivr/free-domain) |  [not working anymore, might get resolved](https://github.com/Olivr/free-domain#free-domains-for-developers) | fsp | ❌  |
    | [jsid.dev](https://github.com/namtxs/jsid.dev) |  free identity for developers on the web | fsp | ✅  |
    | [opendomains.andrewstech.me](https://opendomains.andrewstech.me) |  free subdomains powered by Cloudflare, localplayer.dev, is-not-a.dev, is-local.org, is-cool.dev, is-a-fullstack.dev subdomains | fsp | ✅  |
    | [dynu.com](https://www.dynu.com/ControlPanel/AddDDNS) |  host servers with the following subdomains camdvr.org, casacam.net, ddnsfree.com, ezgateway.net, freeddns.org, gleeze.com, kozow.com, loseyourip.com, mytunnel.org, mywire.org, webredirect.org, xubi.org | fsp | ✅  |
+   | [wip.la & cluster.ws](https://github.com/Olivr/free-domain) |  [not working anymore, might get resolved](https://github.com/Olivr/free-domain#free-domains-for-developers) | fsp | ❌  |
+   | [freedns.afraid.org](freedns.afraid.org) |  Included despite being out of order for now, one of the best hosts out there  | fsp | ❌  |
+   | [.tk](https://dot.tk/) |  free .tk top level domain | fsp | ❓  |
  
 
   
