@@ -55,6 +55,7 @@ For more info about the other options check out the [original repo](https://gith
    | [eu.cc](https://www.gname.com/tld-eu-cc.html) |  free eu.cc subdomain | fsp | ✅  |
    | [now.cc](https://now.cc) |  free now.cc subdomain | fsp | ✅  |
    | [zone.id](https://zone.id) |  free net.to and zone.id subdomains | fsp | ✅  |
+   | [nssnap.com](https://nssnap.com) | Free subdomains on is-a.si, no.kg, so.kg, pfsdns.org, nastu.net and tun.re, web console plus REST API and MCP for agents | fsp | ✅ |
    | [int.yt](https://int.yt) |  int.yt, nc.to, rh.to, yn.to, gw.to subdomains | fsp | ✅  |
    | [my-place.us](https://my-place.us) |  my-place.us subdomain | fsp | ✅  |
    | [is-really.cool](https://github.com/is-amazing/register) |  a place for software devs to host their projects and personal websites for free | fsp | ✅  |
