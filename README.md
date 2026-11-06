@@ -52,7 +52,6 @@ For more info about the other options check out the [original repo](https://gith
    | [ngo.us](https://nic.ngo.us) |  dedicated to legitimate nonprofit organizations and public online presences | fsp | ✅  |
    | [azote.org](https://azote.org)|  free subdomains, asso.st, fr.nf , ze.cx, infos.st | fsp | ✅  |
    | [iz.rs](https://iz.rs/postupak_registracije) |  serbian subdomain provider | fsp | ✅  |
-   | [eu.cc](https://www.gname.com/tld-eu-cc.html) |  free eu.cc subdomain | fsp | ✅  |
    | [now.cc](https://now.cc) |  free now.cc subdomain | fsp | ✅  |
    | [zone.id](https://zone.id) |  free net.to and zone.id subdomains | fsp | ✅  |
    | [nssnap.com](https://nssnap.com) | Free subdomains on is-a.si, no.kg, so.kg, pfsdns.org, nastu.net and tun.re, web console plus REST API and MCP for agents | fsp | ✅ |
@@ -63,6 +62,7 @@ For more info about the other options check out the [original repo](https://gith
    | [opendomains.andrewstech.me](https://opendomains.andrewstech.me) |  free subdomains powered by Cloudflare, localplayer.dev, is-not-a.dev, is-local.org, is-cool.dev, is-a-fullstack.dev subdomains | fsp | ✅  |
    | [dynu.com](https://www.dynu.com/ControlPanel/AddDDNS) |  host servers with the following subdomains camdvr.org, casacam.net, ddnsfree.com, ezgateway.net, freeddns.org, gleeze.com, kozow.com, loseyourip.com, mytunnel.org, mywire.org, webredirect.org, xubi.org | fsp | ✅  |
    | [wip.la & cluster.ws](https://github.com/Olivr/free-domain) |  [not working anymore, might get resolved](https://github.com/Olivr/free-domain#free-domains-for-developers) | fsp | ❌  |
+   | [eu.cc](https://www.gname.com/tld-eu-cc.html) |  free eu.cc subdomain | fsp | ❌  |
    | [freedns.afraid.org](freedns.afraid.org) |  Included despite being out of order for now, one of the best hosts out there  | fsp | ❌  |
    | [.tk](https://dot.tk/) |  free .tk top level domain | fsp | ❓  |
  
